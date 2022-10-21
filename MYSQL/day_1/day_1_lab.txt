@@ -1,0 +1,27 @@
+Project Day1
+-------------------
+Database Name:
+SalaamTech_db
+
+Table Name: 
+SalaamTech_Registration_Table
+
+Fields:
+-----------------
+Fist_Name
+Middle_Name
+Last_Name
+Primary_Contact_Number
+Primary_Email_Address 
+Current_Physical_Address
+State
+City
+Zip_Code
+Degree_Awarded
+Major
+Name_of_Institute
+Course_Duration_From
+Course_Duration_To
+
+Hint: 
+When you create a table, please make sure to follow appropriate data type. For your reference, please make sure to refer to the website https://form.salaamtechnologies.com/registration.php
